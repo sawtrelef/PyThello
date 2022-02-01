@@ -3,4 +3,5 @@ My capstone project put together to polish off my degree.  A fun little Othello 
 
 
 You will need to make sure that pygame is installed before this can be ran, otherwise it should be as simple as running the game!
+Run the "Test" file in order to run the game.
 There is still a bug in the "Batman" AI that does cause the game to crash, I can look into this in the future.
