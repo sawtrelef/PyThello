@@ -477,13 +477,6 @@ def pvp(screen):
                 # change the value to False, to exit the main loop
                 check = False
 
-
-
-
-
-
-
-
 def pvc(screen):
     pygame.display.set_caption("Player vs AI")
     screen.fill((0,0,0))
@@ -635,8 +628,6 @@ def pvc(screen):
             if event.type == pygame.QUIT:
                 # change the value to False, to exit the main loop
                 check = False
-
-
 
 # run the main function only if this module is executed as the main script
 # (if you import this as a module then nothing is executed)
